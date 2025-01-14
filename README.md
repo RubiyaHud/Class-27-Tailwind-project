@@ -6,3 +6,8 @@
 -  Then, Save as the CSS file named "tailwind.css", in the root folder of the Project.
 -  Link the CSS file with the Project.
   ![image](https://github.com/user-attachments/assets/8cdc63a5-26f8-4efc-86f6-13b2976246fc)
+
+- Create a file "tailwind.config.js" in the root folder of the Project
+- Then, Copy-Paste the code below:
+  
+  ![image](https://github.com/user-attachments/assets/37207b58-b8db-4d81-acaf-1d65bf23566e)
