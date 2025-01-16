@@ -19,4 +19,7 @@
 - Now the Project is connected with Tailwind CSS.
 
 ### <ins> Important Note </ins>
+#### Card Section >> Image card should be cropped according to height of the card (using Adobe Photoshop)
+   
 ![image](https://github.com/user-attachments/assets/91085fb4-f526-4169-875f-ddac1842bfd0)
+![image](https://github.com/user-attachments/assets/ef67db5d-8696-401e-8be0-93387f0231df)
