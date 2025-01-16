@@ -17,3 +17,6 @@
   ![image](https://github.com/user-attachments/assets/6664191f-5aa1-4fb5-a55b-7ee6d03f6131)
 
 - Now the Project is connected with Tailwind CSS.
+
+### <ins> Important Note </ins>
+![image](https://github.com/user-attachments/assets/91085fb4-f526-4169-875f-ddac1842bfd0)
